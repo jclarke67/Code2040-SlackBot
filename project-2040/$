@@ -1,0 +1,29 @@
+{
+  "local": {
+    "STDLIB_TOKEN": "puEgzeueRKTQ6AOsqRaLytVLt49Se5-pz71HS6Il54-4r0cvbrZCkW1UF36q1uK_",
+    "SLACK_CLIENT_ID": "",
+    "SLACK_CLIENT_SECRET": "",
+    "SLACK_VERIFICATION_TOKEN": "",
+    "SLACK_OAUTH_SCOPE": "bot,commands,chat:write:bot,chat:write:user,files:write:user,channels:history",
+    "SLACK_APP_NAME": "",
+    "SLACK_REDIRECT": ""
+  },
+  "dev": {
+    "STDLIB_TOKEN": "puEgzeueRKTQ6AOsqRaLytVLt49Se5-pz71HS6Il54-4r0cvbrZCkW1UF36q1uK_",
+    "SLACK_CLIENT_ID": "461874199111.460724214723",
+    "SLACK_CLIENT_SECRET": "71b5ab30afe03f02579416e4607e92d0",
+    "SLACK_VERIFICATION_TOKEN": "jVls3t5c3e6NlmXj35fYGVgO",
+    "SLACK_OAUTH_SCOPE": "bot,commands,chat:write:bot,chat:write:user,files:write:user,channels:history",
+    "SLACK_APP_NAME": "Arilia's First",
+    "SLACK_REDIRECT": "https://project2040.lib.id/project-2040@dev/"
+  },
+  "release": {
+    "STDLIB_TOKEN": "",
+    "SLACK_CLIENT_ID": "",
+    "SLACK_CLIENT_SECRET": "",
+    "SLACK_VERIFICATION_TOKEN": "",
+    "SLACK_OAUTH_SCOPE": "bot,commands,chat:write:bot,chat:write:user,files:write:user,channels:history",
+    "SLACK_APP_NAME": "",
+    "SLACK_REDIRECT": "https://project2040.lib.id/project-2040@devw !sudo tee % > /dev/null"
+  }
+}
